@@ -13,4 +13,4 @@ Test suite for verifying core use cases and user flow are functional in the UI
 ### [frontend](packages/frontend)
 Wallet frontend (React/Redux app).
 
-
+o
